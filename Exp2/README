@@ -1,0 +1,41 @@
+Coffee Sales Analytics Dashboard — Tableau Project
+
+This repository contains an interactive Tableau dashboard built to analyze sales performance for a coffee retail business. The goal of this project is to uncover sales trends, understand product performance, and compare different markets using clear and visually appealing data visualizations.
+
+Live Dashboard
+
+Tableau Public: https://public.tableau.com/
+
+Project Summary:
+
+This dashboard provides a detailed breakdown of:
+
+Sales trends over time across different product lines
+
+Market-level performance, including market size and regional differences
+
+Product and category profitability
+
+Customer purchase behavior based on available patterns
+
+The visualizations help stakeholders quickly understand key business metrics and make data-driven decisions.
+
+Tools & Technologies
+
+Tableau Desktop / Tableau Public
+
+Dataset: Coffee.csv (included in the packaged workbook)
+
+Workbook Type: .twbx (packaged with data)
+
+Key Insights:
+
+Some example insights (update based on your actual dashboard):
+
+Product Line Performance: Certain product lines, such as Coffee and Espresso, generate the highest revenue.
+
+Market Variations: Larger markets consistently outperform smaller ones in both sales and customer volume.
+
+Time-Based Trends: Clear sales peaks appear during specific months or quarters.
+
+Top Products: A handful of products contribute a significant portion of total revenue.
