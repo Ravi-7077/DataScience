@@ -1,0 +1,47 @@
+Titanic Survival Analysis — Tableau Dashboard
+
+This repository contains an interactive Tableau dashboard built to analyze the historical Titanic passenger dataset.
+The goal of this project is to understand the factors influencing passenger survival, uncover patterns in demographics, and visually communicate the relationships between age, gender, ticket class, and survival outcomes.
+
+Live Dashboard
+Tableau Public Link: https://public.tableau.com/
+...
+
+Project Overview
+
+This dashboard provides a detailed breakdown of:
+
+Survival rates based on gender and passenger class
+
+Age distribution among survivors and non-survivors
+
+Family influence (Siblings/Spouses and Parents/Children onboard)
+
+Fare patterns and their relationship to survival
+
+Overall demographic analysis of passengers
+
+Designed for clear storytelling, the dashboard helps users visually explore why certain groups had a higher chance of survival.
+
+Tools & Technologies
+
+Tableau Desktop / Tableau Public
+
+Dataset: Titanic passenger data (CSV format)
+
+File Type: .twbx — packaged workbook with embedded data
+
+
+Key Insights
+
+Replace with your own, but here are strong example insights:
+
+Females had significantly higher survival rates compared to males.
+
+1st-class passengers survived at a much higher rate than 2nd or 3rd class.
+
+Children (Age < 15) showed better chances of survival, supporting “women and children first.”
+
+Higher fares were correlated with better survival chances.
+
+Passengers traveling alone tended to have lower survival rates.
